@@ -1,1 +1,83 @@
-/target
+# Cargo output directory
+target/
+
+# IntelliJ/Rust
+.idea/
+
+# IntelliJ/Rust .iml files
+*.iml
+
+# IntelliJ/Rust .ipr files
+*.ipr
+
+# IntelliJ/Rust .iws files
+*.iws
+
+# IntelliJ/Rust .rs.i files
+*.rs.i
+
+# IntelliJ/Rust .rs.o files
+*.rs.o
+
+# IntelliJ/Rust cmake-build-debug/
+cmake-build-debug/
+
+# IntelliJ/Rust cmake-build-release/
+cmake-build-release/
+
+# IntelliJ/Rust cmake-build-relwithdebinfo/
+cmake-build-relwithdebinfo/
+
+# IntelliJ/Rust cmake-build-minsizerel/
+cmake-build-minsizerel/
+
+# IntelliJ/Rust .DS_Store
+.DS_Store
+
+# IntelliJ/Rust .DS_Store?
+.DS_Store?
+
+# IntelliJ/Rust ._*
+._*
+
+# IntelliJ/Rust .Spotlight-V100
+.Spotlight-V100
+
+# IntelliJ/Rust .Trashes
+.Trashes
+
+# IntelliJ/Rust Icon?
+Icon?
+
+# IntelliJ/Rust .DocumentRevisions-V100
+.DocumentRevisions-V100
+
+# IntelliJ/Rust .fseventsd
+.fseventsd
+
+# IntelliJ/Rust .git
+.git
+
+# IntelliJ/Rust .gitignore
+.gitignore
+
+# IntelliJ/Rust .gitmodules
+.gitmodules
+
+# IntelliJ/Rust .hg
+.hg
+
+# IntelliJ/Rust .hgignore
+.hgignore
+
+# IntelliJ/Rust .hgsub
+.hgsub
+
+# IntelliJ/Rust .hgsubstate
+.hgsubstate
+
+# IntelliJ/Rust .svn
+.svn
+
+# IntelliJ/Rust .svnignore
+.svnignore
