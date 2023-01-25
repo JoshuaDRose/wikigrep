@@ -8,3 +8,7 @@ edition = "2021"
 [dependencies]
 http = "0.2.8"
 hyper = "1.0.0-rc.2"
+reqwest = "0.11.14"
+reqwest-oauth1 = "0.2.3"
+select = "0.6.0"
+clap = "4.1.4"
